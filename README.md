@@ -11,7 +11,7 @@ Final Praktikum Kakas
 4. Menggunakan fitur github pages yang berfungsi sebagai hosting & domain statis agar project bisa diakses
 (silahkan pelajari cara penggunaan github pages di https://www.youtube.com/watch?v=rgDDWhQe-ow)
 5. Lakukan perubahan atau commits pada project tersebut minimal 30 kali dan setiap anggota minimal melakukan 10 kali commits
-6. Kalau project selesai silahkan copy link repository project / github pages di fitur komen pada repositoy ini
+6. Kalau project selesai silahkan copy link repository project / github pages disini https://github.com/imamfrazi/final-prak-kakas/commit/87611de96388644903dfe365967e0dd0aad9326a
    - format : kelas, nim dan nama anggota + link repository project / github pages
    - contoh : Kelas C, 60200114076 (Imam Fachrul Razi), 60200114025 (Hamba Allah), https://imamfrazi.github.io/
 7. Deadline Hari Kamis Jam 12.00 Malam
